@@ -1,2 +1,10 @@
-# Companies-Dashboard
-Power BI dashboard (PDF export) analyzing 100+ companies by industry, roles, and verification status.
+# Companies Dashboard
+
+![Companies Dashboard](companies-dashboard.png)
+
+## Download PBIX
+[Download PBIX file](companies-dashboard.pbix)
+
+## View PDF
+[Open PDF](companies-dashboard.pdf)
+
